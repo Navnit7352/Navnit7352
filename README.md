@@ -30,16 +30,16 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsZzYW4vSHL6u-h-F9nZge4rfvScSMU6CWBA&s" alt="Seaborn" width="40" height="40"/>
 </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit_learn/scikit_learn-original.svg" alt="Scikit-Learn" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3ioErrXCaT2yZgsMaefs8irg9dRTWVk882Q&s" alt="Scikit-Learn" width="40" height="40"/>
 </a>
 <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
 </a>
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-plain.svg" alt="Power BI" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png" alt="Power BI" width="40" height="40"/>
 </a>
 <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/machine-learning/machine-learning-original.svg" alt="Machine Learning" width="40" height="40"/>
+  <img src="https://static.thenounproject.com/png/4071231-200.png" alt="Machine Learning" width="40" height="40"/>
 </a>
 
 </p>
