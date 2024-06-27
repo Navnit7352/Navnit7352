@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navnit</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A Data Scientist from India</h3>
 <img align="right" alt="Coding" width="800" src="https://deeptechstartups.in/wp-content/uploads/2022/09/Deep-Tech-1.jpg">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navnit7352" alt="navnit7352" /></a> </p>
