@@ -27,7 +27,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
 </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" alt="Seaborn" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsZzYW4vSHL6u-h-F9nZge4rfvScSMU6CWBA&s" alt="Seaborn" width="40" height="40"/>
 </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit_learn/scikit_learn-original.svg" alt="Scikit-Learn" width="40" height="40"/>
