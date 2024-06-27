@@ -23,6 +23,25 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
+</a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" alt="Seaborn" width="40" height="40"/>
+</a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit_learn/scikit_learn-original.svg" alt="Scikit-Learn" width="40" height="40"/>
+</a>
+<a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+</a>
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-plain.svg" alt="Power BI" width="40" height="40"/>
+</a>
+<a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/machine-learning/machine-learning-original.svg" alt="Machine Learning" width="40" height="40"/>
+</a>
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navnit7352&show_icons=true&locale=en&layout=compact" alt="navnit7352" /></p>
