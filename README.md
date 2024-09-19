@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navnit7352" alt="navnit7352" /></a> </p>
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently learning **Express.js**
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **navnitkmr05102003@gmail.com**
 
