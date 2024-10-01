@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/navnit-kumar-aba60a279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/navnit-kumar-aba60a279" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/navnit-kumar-73na" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/navnit-kumar-aba60a279" height="30" width="40" /></a>
 <a href="https://instagram.com/navnit7352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="navnit7352" height="30" width="40" /></a>
 </p>
 
