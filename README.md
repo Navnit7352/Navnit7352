@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navnit</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center">A Passionate Web Developer from India</h3>
 <img align="right" alt="Coding" width="800" src="https://img.freepik.com/free-vector/ai-technology-microchip-background-vector-digital-transformation-concept_53876-117808.jpg">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navnit7352" alt="navnit7352" /></a> </p>
