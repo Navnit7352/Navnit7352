@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Navnit</h1>
 <h3 align="center">A Passionate Web Developer from India</h3>
-<img align="right" alt="https://miro.medium.com/v2/resize:fit:900/1*b29pJKZqp6Jxb3rd9QlJiw.png">
+<img align="right" alt="https://www.google.com/url?sa=i&url=https%3A%2F%2Fyushi95.medium.com%2Fhow-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c&psig=AOvVaw1YXbJ55eDhTvf2g1cm_aE_&ust=1728220950686000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLj0zo2r94gDFQAAAAAdAAAAABAE">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navnit7352" alt="navnit7352" /></a> </p>
 
